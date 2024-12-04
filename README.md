@@ -79,30 +79,19 @@ Navigate into the project directory and install the required dependencies:
 
 ```bash
 cd rbac-ui
-npm install
+pnpm i
 ```
 
 ### Step 3: Start the Application
 Start the development server:
 
 ```bash
-npm start
+pnpm run dev
 ```
 
 This will run the application at [http://localhost:3000](http://localhost:3000).
 
-### Step 4: Build the Application (Optional)
-If you're preparing the application for production, you can build it using the following command:
 
-```bash
-npm run build
-```
-
-Then, serve the built application:
-
-```bash
-npm run serve
-```
 
 ## Technologies Used
 - **React**: JavaScript library for building user interfaces.
