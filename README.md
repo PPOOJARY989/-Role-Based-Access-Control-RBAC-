@@ -89,7 +89,7 @@ Start the development server:
 pnpm run dev
 ```
 
-This will run the application at [http://localhost:3000](http://localhost:3000).
+it will run
 
 
 
